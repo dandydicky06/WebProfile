@@ -7,7 +7,7 @@ export const portfolioList: Portfolio[] = [
     description:
       "This is a personal branding project that I created using Next JS, Tailwind CSS, and Framer Motion. This project consists of a website that showcases my skills, achievements, and personality. The website has seven sections: Home, About, Experiences, Services, Portfolio, Articles, and Contact. The website is designed to be responsive, interactive, and engaging. The website aims to impress and connect with potential clients, employers, and collaborators.",
     livePreviewURL: "",
-    repositoryURL: "https://github.com/dandydicky06",
+    repositoryURL: "https://github.com/dandydicky06/WebProfile",
     techStack: [
       {
         tech: "Next JS",
