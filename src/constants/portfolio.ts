@@ -24,13 +24,25 @@ export const portfolioList: Portfolio[] = [
     ],
   },
   {
-    title: "CoomingSoon!!!",
+    title: "ZYRA Landing Page",
     imageThumbnail: "/assets/images/project1.webp",
     description:
       "Zyra is a website that I created using HTML, CSS, and JavaScript. This website displays information about a company that sells phones with the Zyra brand. This website also showcases the features, specifications, and prices of the Zyra phones, as well as the customer reviews and feedback. This website aims to attract and inform potential buyers about the quality and innovation of the Zyra phones.",
     livePreviewURL: "https://zyra-smartphone.vercel.app/",
     repositoryURL: "https://github.com/dandydicky06/zyra_smartphone",
     techStack: [
+      {
+        tech: "HTML",
+        logo: "/assets/svg/html.svg",
+      },
+      {
+        tech: "CSS",
+        logo: "/assets/svg/css.svg",
+      },
+      {
+        tech: "JavaScript",
+        logo: "/assets/svg/javascript.svg",
+      },
     ],
   },
   {
