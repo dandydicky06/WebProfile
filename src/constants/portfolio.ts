@@ -46,13 +46,25 @@ export const portfolioList: Portfolio[] = [
     ],
   },
   {
-    title: "CoomingSoon!!!",
-    imageThumbnail: "/assets/images/Coomingsoon.webp",
+    title: "Aroma Kenangan Coffee Website",
+    imageThumbnail: "/assets/images/project2.webp",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo excepturi sint, fuga molestiae omnis at sunt tenetur distinctio odit adipisci ratione architecto atque vel fugiat eaque vitae qui officia error?Recusandae ipsa qui vero magni pariatur laboriosam sit similique animi expedita minima consequatur obcaecati, dolore possimus, consectetur, cupiditate sint! Similique sint in laborum magni corrupti aut consectetur cumque dolor earum!",
-    livePreviewURL: "",
-    repositoryURL: "https://github.com/dandydicky06",
+      "Coffee is a website that I created using HTML, CSS, and JavaScript. This website is about a cafe that serves delicious coffee, tea, and pastries. This website allows users to view the menu, location, and hours of the cafe. This website also has features such as online ordering, loyalty program, and feedback. This website aims to attract and satisfy customers with the quality and variety of the cafe’s products and services.",
+    livePreviewURL: "https://aroma-nostalgia-coffee.vercel.app/",
+    repositoryURL: "https://github.com/dandydicky06/aroma_nostalgia_coffee",
     techStack: [
+      {
+        tech: "HTML",
+        logo: "/assets/svg/html.svg",
+      },
+      {
+        tech: "CSS",
+        logo: "/assets/svg/css.svg",
+      },
+      {
+        tech: "JavaScript",
+        logo: "/assets/svg/javascript.svg",
+      },
     ],
   },
   {
