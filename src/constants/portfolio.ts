@@ -75,6 +75,10 @@ export const portfolioList: Portfolio[] = [
     livePreviewURL: "https://dolantkreatif.com/",
     repositoryURL: "https://github.com/dandydicky06",
     techStack: [
+      {
+        tech: "wordpress",
+        logo: "/assets/svg/wordpress.svg",
+      },
     ],
   },
   {
