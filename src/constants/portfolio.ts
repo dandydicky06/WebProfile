@@ -68,11 +68,11 @@ export const portfolioList: Portfolio[] = [
     ],
   },
   {
-    title: "CoomingSoon!!!",
-    imageThumbnail: "/assets/images/Coomingsoon.webp",
+    title: "PT Dolant Kreatif",
+    imageThumbnail: "/assets/images/project3.webp",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo excepturi sint, fuga molestiae omnis at sunt tenetur distinctio odit adipisci ratione architecto atque vel fugiat eaque vitae qui officia error?Recusandae ipsa qui vero magni pariatur laboriosam sit similique animi expedita minima consequatur obcaecati, dolore possimus, consectetur, cupiditate sint! Similique sint in laborum magni corrupti aut consectetur cumque dolor earum!",
-    livePreviewURL: "",
+      "The landing page website that I created was based on the client's request, namely PT Dolant Creative Indonesia. This website displays information about companies operating in the fields of content creation, animation and merchandise sales. This website also displays what services are provided and also several projects that have been carried out along with data from several partners.",
+    livePreviewURL: "https://dolantkreatif.com/",
     repositoryURL: "https://github.com/dandydicky06",
     techStack: [
     ],
