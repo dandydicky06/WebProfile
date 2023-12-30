@@ -46,7 +46,7 @@ export const portfolioList: Portfolio[] = [
     ],
   },
   {
-    title: "Aroma Kenangan Coffee Website",
+    title: "Aroma Kenangan Coffee",
     imageThumbnail: "/assets/images/project2.webp",
     description:
       "Coffee is a website that I created using HTML, CSS, and JavaScript. This website is about a cafe that serves delicious coffee, tea, and pastries. This website allows users to view the menu, location, and hours of the cafe. This website also has features such as online ordering, loyalty program, and feedback. This website aims to attract and satisfy customers with the quality and variety of the cafe’s products and services.",
@@ -82,13 +82,17 @@ export const portfolioList: Portfolio[] = [
     ],
   },
   {
-    title: "CoomingSoon!!!",
-    imageThumbnail: "/assets/images/Coomingsoon.webp",
+    title: "Gastroluxe Restaurant",
+    imageThumbnail: "/assets/images/project4.webp",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo excepturi sint, fuga molestiae omnis at sunt tenetur distinctio odit adipisci ratione architecto atque vel fugiat eaque vitae qui officia error?Recusandae ipsa qui vero magni pariatur laboriosam sit similique animi expedita minima consequatur obcaecati, dolore possimus, consectetur, cupiditate sint! Similique sint in laborum magni corrupti aut consectetur cumque dolor earum!",
-    livePreviewURL: "",
-    repositoryURL: "https://github.com/dandydicky06",
+      "Gastroluxe Restaurant is a website that I created using React JS. This website is about a luxurious restaurant. This website allows users to view the menu, gallery, and reviews of the restaurant. This website also has features such as reservation, delivery, and gift card. This website aims to attract and impress customers with the high-quality and exquisite cuisine and service of the restaurant.",
+    livePreviewURL: "https://gastro-luxe-restaurant.vercel.app/",
+    repositoryURL: "https://github.com/dandydicky06/GastroLuxe_restaurant",
     techStack: [
+      {
+        tech: "React JS",
+        logo: "/assets/svg/react.svg",
+      },
     ],
   },
   {
