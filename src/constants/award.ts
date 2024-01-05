@@ -2,7 +2,7 @@ import type { Award } from "@/types";
 
 export const awardList: Award[] = [
   {
-    award: "Fresh Graduate with cumlaude degree (IPK 5.7)",
+    award: "Fresh Graduate with cumlaude degree (IPK 3.57)",
     place: "Universitas Sebelas Maret",
     years: "Juli - 2023",
   },
